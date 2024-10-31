@@ -8,6 +8,7 @@ Technical Indicators & Time Lag.
 **Key Features**
 
 _Methodology:_ 
+
     Least Absolute Shrinkage and Selection Operator (LASSO) Regression
 
 _Technical Indicators Used:_
@@ -19,8 +20,8 @@ _Technical Indicators Used:_
 
 **Data Source**
 
-  Market: _National Stock Exchange (NSE)_
-  Index: _NIFTY50_
+      Market: _National Stock Exchange (NSE)_
+      Index: _NIFTY50_
 
 **Key Innovations**
 
